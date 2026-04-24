@@ -1,2 +1,2 @@
-# Coch-curve
-this my test
+# Koch-curve
+this my test "Koch curve"
